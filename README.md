@@ -13,12 +13,12 @@ I build tools, games, and apps in Taiwan, with AI as an everyday coworker.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/KbWen/agentic-os"><img src="https://raw.githubusercontent.com/KbWen/agentic-os/main/docs/assets/workflow-demo.gif" alt="agentic-os workflow demo" width="100%"></a><br>
+<a href="https://github.com/KbWen/agentic-os"><img src="assets/agentic-os.gif" alt="Your AI agent says it's done. Agentic OS wants the receipts." width="100%"></a><br>
 <b><a href="https://github.com/KbWen/agentic-os">agentic-os</a></b><br>
 A plan → build → review → test → ship workflow for AI coding agents.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/KbWen/agent-virtual-office"><img src="https://raw.githubusercontent.com/KbWen/agent-virtual-office/main/docs/assets/office-poke.gif" alt="agent-virtual-office demo" width="100%"></a><br>
+<a href="https://github.com/KbWen/agent-virtual-office"><img src="assets/office-live.gif" alt="Two pixel AI agents at their desks: one finishes, the other's build fails, then it deploys" width="100%"></a><br>
 <b><a href="https://github.com/KbWen/agent-virtual-office">agent-virtual-office</a></b><br>
 Watch your AI coding agents at work in a live pixel office.
 </td>
@@ -30,7 +30,7 @@ Watch your AI coding agents at work in a live pixel office.
 Browser tools and small games. No signup, and more keep coming.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/KbWen/chartsnap"><img src="https://raw.githubusercontent.com/KbWen/chartsnap/main/docs/demo.gif" alt="chartsnap demo" width="100%"></a><br>
+<a href="https://github.com/KbWen/chartsnap"><img src="assets/chartsnap.gif" alt="chartsnap turning a CSV into line, bar and scatter charts" width="100%"></a><br>
 <b><a href="https://github.com/KbWen/chartsnap">chartsnap</a></b><br>
 CSV to chart in your browser, sized for social or print.
 </td>
