@@ -67,11 +67,11 @@ flowchart LR
 **Latest releases**
 
 <!-- recent_releases starts -->
+- [chartsnap v1.10.0](https://github.com/KbWen/chartsnap/releases/tag/v1.10.0) — 2026-10-12
+- [chartsnap v1.9.1](https://github.com/KbWen/chartsnap/releases/tag/v1.9.1) — 2026-10-12
+- [security-tools v1.2.9](https://github.com/KbWen/security-tools/releases/tag/v1.2.9) — 2026-10-12
 - [agent-virtual-office v1.6.11](https://github.com/KbWen/agent-virtual-office/releases/tag/v1.6.11) — 2026-10-11
 - [agentic-os v1.8.32](https://github.com/KbWen/agentic-os/releases/tag/v1.8.32) — 2026-10-06
-- [agentic-os v1.8.31](https://github.com/KbWen/agentic-os/releases/tag/v1.8.31) — 2026-10-05
-- [agentic-os v1.8.30](https://github.com/KbWen/agentic-os/releases/tag/v1.8.30) — 2026-09-29
-- [agentic-os v1.8.29](https://github.com/KbWen/agentic-os/releases/tag/v1.8.29) — 2026-09-27
 <!-- recent_releases ends -->
 
 </td>
@@ -80,11 +80,11 @@ flowchart LR
 **Latest notes**
 
 <!-- recent_posts starts -->
+- [How constrained decoding works for JSON](https://www.kbwen.com/constrained-decoding-valid-json/) — 2026-10-12
+- [JSON schema 怎麼限制 LLM 的輸出](https://www.kbwen.com/structured-output-token-mask/) — 2026-10-12
+- [Python __slots__ and class attribute defaults](https://www.kbwen.com/python-slots-class-attribute-defaults/) — 2026-10-12
+- [Python 的 __slots__ 能省下多少記憶體](https://www.kbwen.com/python-slots-instance-memory/) — 2026-10-12
 - [How tool call arguments stream in the Claude API](https://www.kbwen.com/claude-api-streaming-tool-call-arguments/) — 2026-10-05
-- [Claude API 串流時的工具呼叫與不完整的 JSON](https://www.kbwen.com/claude-api-streaming-tool-call-partial-json/) — 2026-10-05
-- [Where the cache_control breakpoint goes in Claude prompt caching](https://www.kbwen.com/claude-prompt-caching-breakpoint-placement/) — 2026-10-05
-- [Claude API 的 prompt caching：cache_control 放在哪裡](https://www.kbwen.com/claude-prompt-caching-breakpoint-placement-zh/) — 2026-10-05
-- [開源專案怎麼看 AI 寫的程式碼：QEMU、Linux 核心與 Debian 的規定](https://www.kbwen.com/open-source-ai-contribution-policies-qemu-linux-debian/) — 2026-09-23
 <!-- recent_posts ends -->
 
 </td>
