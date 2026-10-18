@@ -67,11 +67,11 @@ flowchart LR
 **Latest releases**
 
 <!-- recent_releases starts -->
+- [agentic-os v1.8.34](https://github.com/KbWen/agentic-os/releases/tag/v1.8.34) — 2026-10-18
 - [chartsnap v1.10.1](https://github.com/KbWen/chartsnap/releases/tag/v1.10.1) — 2026-10-15
 - [agentic-os v1.8.33](https://github.com/KbWen/agentic-os/releases/tag/v1.8.33) — 2026-10-13
 - [chartsnap v1.10.0](https://github.com/KbWen/chartsnap/releases/tag/v1.10.0) — 2026-10-12
 - [chartsnap v1.9.1](https://github.com/KbWen/chartsnap/releases/tag/v1.9.1) — 2026-10-12
-- [security-tools v1.2.9](https://github.com/KbWen/security-tools/releases/tag/v1.2.9) — 2026-10-12
 <!-- recent_releases ends -->
 
 </td>
