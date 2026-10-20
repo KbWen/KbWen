@@ -67,11 +67,11 @@ flowchart LR
 **Latest releases**
 
 <!-- recent_releases starts -->
+- [agentic-os v1.8.35](https://github.com/KbWen/agentic-os/releases/tag/v1.8.35) — 2026-10-20
 - [agentic-os v1.8.34](https://github.com/KbWen/agentic-os/releases/tag/v1.8.34) — 2026-10-18
 - [chartsnap v1.10.1](https://github.com/KbWen/chartsnap/releases/tag/v1.10.1) — 2026-10-15
 - [agentic-os v1.8.33](https://github.com/KbWen/agentic-os/releases/tag/v1.8.33) — 2026-10-13
 - [chartsnap v1.10.0](https://github.com/KbWen/chartsnap/releases/tag/v1.10.0) — 2026-10-12
-- [chartsnap v1.9.1](https://github.com/KbWen/chartsnap/releases/tag/v1.9.1) — 2026-10-12
 <!-- recent_releases ends -->
 
 </td>
@@ -80,11 +80,11 @@ flowchart LR
 **Latest notes**
 
 <!-- recent_posts starts -->
+- [DeepSeek-V3's auxiliary-loss-free load balancing and multi-token prediction](https://www.kbwen.com/deepseek-v3-moe-architecture-efficiency/) — 2026-10-20
+- [DeepSeek-V3 的 Multi-head Latent Attention 如何壓縮 KV 快取](https://www.kbwen.com/deepseek-v3-multi-head-latent-attention-kv-cache/) — 2026-10-20
+- [CPython's dict layout](https://www.kbwen.com/how-cpython-dict-stays-compact-and-ordered/) — 2026-10-20
+- [Python dict 的優化](https://www.kbwen.com/python-dict-insertion-order/) — 2026-10-20
 - [How constrained decoding works for JSON](https://www.kbwen.com/constrained-decoding-valid-json/) — 2026-10-12
-- [JSON schema 怎麼限制 LLM 的輸出](https://www.kbwen.com/structured-output-token-mask/) — 2026-10-12
-- [Python __slots__ and class attribute defaults](https://www.kbwen.com/python-slots-class-attribute-defaults/) — 2026-10-12
-- [Python 的 __slots__ 能省下多少記憶體](https://www.kbwen.com/python-slots-instance-memory/) — 2026-10-12
-- [How tool call arguments stream in the Claude API](https://www.kbwen.com/claude-api-streaming-tool-call-arguments/) — 2026-10-05
 <!-- recent_posts ends -->
 
 </td>
