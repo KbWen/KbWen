@@ -80,11 +80,11 @@ flowchart LR
 **Latest notes**
 
 <!-- recent_posts starts -->
+- [Copying nested lists in Python](https://www.kbwen.com/python-nested-list-copy-en/) — 2026-10-27
+- [Python 淺拷貝與巢狀串列](https://www.kbwen.com/python-shallow-copy-nested-list/) — 2026-10-27
+- [RAG 混合檢索的 Reciprocal Rank Fusion](https://www.kbwen.com/rag-reciprocal-rank-fusion-zh/) — 2026-10-27
+- [Reciprocal rank fusion with multiple vector fields](https://www.kbwen.com/rag-reciprocal-rank-fusion-en/) — 2026-10-27
 - [DeepSeek-V3's auxiliary-loss-free load balancing and multi-token prediction](https://www.kbwen.com/deepseek-v3-moe-architecture-efficiency/) — 2026-10-20
-- [DeepSeek-V3 的 Multi-head Latent Attention 如何壓縮 KV 快取](https://www.kbwen.com/deepseek-v3-multi-head-latent-attention-kv-cache/) — 2026-10-20
-- [CPython's dict layout](https://www.kbwen.com/how-cpython-dict-stays-compact-and-ordered/) — 2026-10-20
-- [Python dict 的優化](https://www.kbwen.com/python-dict-insertion-order/) — 2026-10-20
-- [How constrained decoding works for JSON](https://www.kbwen.com/constrained-decoding-valid-json/) — 2026-10-12
 <!-- recent_posts ends -->
 
 </td>
