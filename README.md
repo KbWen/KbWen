@@ -80,11 +80,11 @@ flowchart LR
 **Latest notes**
 
 <!-- recent_posts starts -->
+- [AI 為什麼愛附和使用者？RLHF 訓練中的阿諛奉承現象](https://www.kbwen.com/llm-sycophancy-rlhf-human-preference/) — 2026-10-30
+- [LLM sycophancy, RLHF and preference models](https://www.kbwen.com/llm-sycophancy-rlhf-preference-models/) — 2026-10-30
+- [Sparse autoencoders and Claude's Golden Gate Bridge feature](https://www.kbwen.com/dictionary-learning-sparse-autoencoders-llm/) — 2026-10-30
+- [金門大橋 Claude 與稀疏自編碼器：把單一特徵調大會發生什麼事](https://www.kbwen.com/golden-gate-claude-sparse-autoencoders/) — 2026-10-30
 - [Copying nested lists in Python](https://www.kbwen.com/python-nested-list-copy-en/) — 2026-10-27
-- [Python 淺拷貝與巢狀串列](https://www.kbwen.com/python-shallow-copy-nested-list/) — 2026-10-27
-- [RAG 混合檢索的 Reciprocal Rank Fusion](https://www.kbwen.com/rag-reciprocal-rank-fusion-zh/) — 2026-10-27
-- [Reciprocal rank fusion with multiple vector fields](https://www.kbwen.com/rag-reciprocal-rank-fusion-en/) — 2026-10-27
-- [DeepSeek-V3's auxiliary-loss-free load balancing and multi-token prediction](https://www.kbwen.com/deepseek-v3-moe-architecture-efficiency/) — 2026-10-20
 <!-- recent_posts ends -->
 
 </td>
