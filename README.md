@@ -80,11 +80,11 @@ flowchart LR
 **Latest notes**
 
 <!-- recent_posts starts -->
+- [model.eval() and torch.no_grad() in PyTorch](https://www.kbwen.com/pytorch-model-eval-vs-no-grad/) — 2026-11-02
+- [Python [[0]*3]*3 修改其中一格，為什麼三列都跟著變](https://www.kbwen.com/python-list-multiplication-shared-rows/) — 2026-11-02
+- [Passing back reasoning items in the OpenAI Responses API](https://www.kbwen.com/openai-reasoning-models-stateful-context-management/) — 2026-11-02
+- [OpenAI 的 reasoning tokens 怎麼計費](https://www.kbwen.com/openai-reasoning-tokens-context-and-billing/) — 2026-11-02
 - [AI 為什麼愛附和使用者？RLHF 訓練中的阿諛奉承現象](https://www.kbwen.com/llm-sycophancy-rlhf-human-preference/) — 2026-10-30
-- [LLM sycophancy, RLHF and preference models](https://www.kbwen.com/llm-sycophancy-rlhf-preference-models/) — 2026-10-30
-- [Sparse autoencoders and Claude's Golden Gate Bridge feature](https://www.kbwen.com/dictionary-learning-sparse-autoencoders-llm/) — 2026-10-30
-- [金門大橋 Claude 與稀疏自編碼器：把單一特徵調大會發生什麼事](https://www.kbwen.com/golden-gate-claude-sparse-autoencoders/) — 2026-10-30
-- [Copying nested lists in Python](https://www.kbwen.com/python-nested-list-copy-en/) — 2026-10-27
 <!-- recent_posts ends -->
 
 </td>
