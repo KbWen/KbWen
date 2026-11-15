@@ -84,7 +84,7 @@ flowchart LR
 - [Python 寫了 __eq__ 之後，物件為什麼不能放進去 set](https://www.kbwen.com/python-eq-disables-hash/) — 2026-11-06
 - [Setting effort on Claude Haiku 5.5](https://www.kbwen.com/claude-haiku-5-5-effort-levels/) — 2026-11-06
 - [Claude Haiku 5.5 超過 100,000 tokens 的請求怎麼計價](https://www.kbwen.com/claude-haiku-5-5-100k-prompt-pricing/) — 2026-11-06
-- [model.eval() and torch.no_grad() in PyTorch](https://www.kbwen.com/pytorch-model-eval-vs-no-grad/) — 2026-11-02
+- [Python 出現 attempted relative import with no known parent package 是怎麼回事](https://www.kbwen.com/python-relative-import-no-known-parent-package/) — 2026-11-05
 <!-- recent_posts ends -->
 
 </td>
