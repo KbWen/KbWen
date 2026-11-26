@@ -80,11 +80,11 @@ flowchart LR
 **Latest notes**
 
 <!-- recent_posts starts -->
+- [llama.cpp 升到 1.0.0，哪些用法會受影響？](https://www.kbwen.com/llama-cpp-1-0-public-c-api/) — 2026-11-25
+- [Which coding-agent tools run inside an external sandbox?](https://www.kbwen.com/external-sandboxes-coding-agents/) — 2026-11-25
+- [Claude Fable 5.2 擋下的請求，會由哪個模型回答？](https://www.kbwen.com/claude-fable-5-2-blocked-request-fallback/) — 2026-11-25
+- [Cost per task for Muse Ember and Claude Haiku 5.5](https://www.kbwen.com/muse-ember-haiku-5-5-cost-per-task/) — 2026-11-25
 - [How FlashAttention computes softmax one block at a time](https://www.kbwen.com/flashattention-online-softmax-tiling/) — 2026-11-06
-- [Python 寫了 __eq__ 之後，物件為什麼不能放進去 set](https://www.kbwen.com/python-eq-disables-hash/) — 2026-11-06
-- [Setting effort on Claude Haiku 5.5](https://www.kbwen.com/claude-haiku-5-5-effort-levels/) — 2026-11-06
-- [Claude Haiku 5.5 超過 100,000 tokens 的請求怎麼計價](https://www.kbwen.com/claude-haiku-5-5-100k-prompt-pricing/) — 2026-11-06
-- [Python 出現 attempted relative import with no known parent package 是怎麼回事](https://www.kbwen.com/python-relative-import-no-known-parent-package/) — 2026-11-05
 <!-- recent_posts ends -->
 
 </td>
